@@ -24,4 +24,4 @@ Currently learning:<br>-DevOps<br>-Android Mobile Development<br>-NoSQL<br>-Data
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Cavichia-D-Santos&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavichia-D-Santos&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavichia-D-Santos&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
