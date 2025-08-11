@@ -1,6 +1,5 @@
 # 💫 About Me:
-Computer Science student from Brazil, creating some Frontend projects and always studying something new.
-Currently learning:<br>-DevOps<br>-Android Mobile Development<br>-NoSQL<br>-Data structures<br>
+Computer Science student from Brazil, always studying something new.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cavishakk) 
